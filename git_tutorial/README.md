@@ -7,3 +7,5 @@ This is new line
 This is last line
 
 This is new line from new_branch
+
+This is new line from second_feature 
